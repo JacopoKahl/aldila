@@ -1,4 +1,5 @@
 @extends($activeTemplate.'layouts.frontend')
+<h1>Test</h1>
 @section('content')
 <section class="all-sections pt-60">
     <div class="container-fluid p-max-sm-0">
